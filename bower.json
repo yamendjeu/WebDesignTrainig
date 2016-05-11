@@ -1,0 +1,24 @@
+{
+  "name": "WebDesignTraining",
+  "description": "TP",
+  "main": "index.html",
+  "authors": [
+    "LUC-DELAURE YATCHOKEU <lucdelaure@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/yamendjeu/WebDesignTraining",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "animate.css": "^3.5.1",
+    "morph-text": "^1.0.2",
+    "Blur.js": "blur-js#^0.2.0"
+  }
+}
