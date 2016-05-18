@@ -1,0 +1,39 @@
+{
+  "name": "morph-text",
+  "version": "1.0.2",
+  "main": "./lib/morph-text.js",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "authors": {
+    "name": "Diego ZoracKy",
+    "email": "diego.zoracky@gmail.com",
+    "homepage": "diegozoracky.com",
+    "twitter": "@diegozoracky"
+  },
+  "licenses": "http://www.opensource.org/licenses/MIT",
+  "keywords": [
+    "replace text",
+    "multiple replace text",
+    "replace string",
+    "multiple replace string",
+    "string template replace",
+    "convert text",
+    "regex text string"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/DiegoZoracKy/morph-text.git"
+  },
+  "homepage": "https://github.com/DiegoZoracKy/morph-text",
+  "_release": "1.0.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.2",
+    "commit": "60774872c29ead78bb75a2b7f56aa542c70460e8"
+  },
+  "_source": "https://github.com/DiegoZoracKy/morph-text.git",
+  "_target": "^1.0.2",
+  "_originalSource": "morph-text"
+}

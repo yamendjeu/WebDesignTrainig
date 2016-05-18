@@ -1,9 +1,117 @@
-/* line 4, C:/Users/LUC-DELAURE/Desktop/WebDesignTraining/assets/css/styles.scss */
-.colorRed {
-  color: #e9645b; }
+body {
+  background-color: whitesmoke;
+  color: #333333;
+  padding: 0px;
+  margin: 0px;
+  font-family: "Open Sans", sans-serif; }
 
-/* line 8, C:/Users/LUC-DELAURE/Desktop/WebDesignTraining/assets/css/styles.scss */
-.colorGreen {
-  color: #76C7C1; }
+h1, h2, h3, h4 {
+  font-family: "Open Sans", sans-serif; }
+
+.menubar {
+  background-color: #76C7C1; }
+  .menubar li a {
+    line-height: 50px;
+    color: #ffffff !important; }
+  .menubar .navbar-brand p {
+    line-height: 20px;
+    color: #ffffff !important;
+    font-size: 36px; }
+
+.banner {
+  margin-top: -21px;
+  background-size: cover;
+  background-repeat: no-repeat; }
+
+.slidetitle {
+  position: absolute;
+  color: #ffffff;
+  bottom: 380px;
+  left: 250px;
+  min-height: 10px;
+  width: 260px;
+  background-color: red;
+  border-radius: 5px;
+  text-align: center;
+  vertical-align: middle;
+  text-align: center;
+  vertical-align: middle; }
+  .slidetitle p {
+    font-weight: bold; }
+
+.slidetext {
+  position: absolute;
+  bottom: 300px;
+  left: 170px;
+  border-radius: 5px;
+  height: 70px;
+  color: #ffffff;
+  background-color: black;
+  opacity: 0.8;
+  width: 400px; }
+  .slidetext p {
+    text-align: center;
+    width: 300px;
+    margin-left: 50px; }
+
+.container-view {
+  height: 120px;
+  margin-top: 50px; }
+  .container-view .view {
+    position: absolute;
+    bottom: 200px; }
+    .container-view .view .button-view {
+      position: absolute;
+      bottom: 40px;
+      right: -150px;
+      background-color: red; }
+
+.my-panels {
+  text-align: center; }
+  .my-panels h4 {
+    font-weight: bold; }
+  .my-panels .button-panel {
+    position: absolute;
+    right: 90px;
+    bottom: 0px; }
+
+.section2 {
+  background-image: url(../images/bg-parallax.jpg);
+  min-height: 400px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-right: -15px;
+  margin-left: -15px;
+  margin-top: 40px; }
+  .section2 .second-image {
+    min-height: 300px;
+    position: absolute;
+    bottom: -1120px;
+    left: 90px;
+    width: 100px; }
+
+.section3 {
+  margin-top: 180px; }
+
+.section4 {
+  background-color: #76C7C1;
+  color: #ffffff;
+  margin-left: -15px;
+  margin-right: -15px;
+  padding-top: 45px;
+  height: 300px;
+  overflow-x: hidden; }
+  .section4 .s4h4 {
+    font-weight: bold;
+    font-size: 24px; }
+  .section4 .h4color {
+    color: #333333; }
+
+.footer {
+  height: 50px;
+  background-color: #62b9b0; }
+  .footer p {
+    color: #ffffff;
+    line-height: 50px; }
 
 /*# sourceMappingURL=styles.css.map */
